@@ -1,0 +1,30 @@
+.nav {
+  background-color: #070F2B;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.li {
+  float: left;
+  margin: 0 50px;
+}
+
+.Link {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.Link:hover {
+  background-color: #ddd;
+  color: #333;
+}

@@ -1,0 +1,20 @@
+.header {
+  background-image: linear-gradient(to bottom, #070F2B, #1B2A4E);
+  color: #fff;
+  padding: 50px;
+  text-align: center;
+
+  .headerContent {
+    max-width: 800px;
+    margin: 0 auto;
+
+    .h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    .p {
+      font-size: 24px;
+    }
+  }
+}
